@@ -1,4 +1,4 @@
-# Hair, Makeup and Look
+# Hair, makeup and look
 
 Prompts for trying a new haircut, hair color, beard, makeup or glasses on a real photo before you commit, while the face stays the same person.
 

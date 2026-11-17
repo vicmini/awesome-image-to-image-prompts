@@ -1,4 +1,4 @@
-# Architecture and Interiors
+# Architecture and interiors
 
 Prompts for building exteriors, interior design shots and architectural renders. Name the materials and the time of day and the result looks far more real.
 

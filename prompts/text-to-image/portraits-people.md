@@ -1,4 +1,4 @@
-# Portraits and People
+# Portraits and people
 
 Prompts for portrait and people photography: close portraits, environmental portraits, candid moments and group shots. All people here are invented.
 

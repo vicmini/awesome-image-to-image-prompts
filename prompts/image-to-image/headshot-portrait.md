@@ -1,4 +1,4 @@
-# Headshots and Portraits
+# Headshots and portraits
 
 Prompts for turning a casual selfie or snapshot into a professional headshot or a styled portrait, with the face kept exactly the same.
 

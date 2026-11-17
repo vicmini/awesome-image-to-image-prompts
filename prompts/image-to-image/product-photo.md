@@ -1,4 +1,4 @@
-# Product Photos
+# Product photos
 
 Prompts for turning a quick phone photo of a product into a clean listing image, a lifestyle scene or an ad shot, with the product shape, label and colors kept exact.
 

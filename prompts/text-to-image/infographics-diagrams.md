@@ -1,4 +1,4 @@
-# Infographics and Diagrams
+# Infographics and diagrams
 
 Prompts for infographics, diagrams, menus, maps and charts that need short, readable labels. Keep the number of labels small and quote each one so the model spells them correctly.
 

@@ -1,4 +1,4 @@
-# Change the Background
+# Change the background
 
 Prompts for moving a person, pet or object into a new setting or a clean backdrop, with light that matches so the edit does not look pasted on.
 

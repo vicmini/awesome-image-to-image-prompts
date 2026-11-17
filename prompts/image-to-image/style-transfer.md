@@ -1,4 +1,4 @@
-# Style Transfer
+# Style transfer
 
 Prompts for redrawing a photo in another look, such as anime, watercolor, film, oil paint, comic, pixel art or clay, while keeping the composition and the subject recognizable.
 

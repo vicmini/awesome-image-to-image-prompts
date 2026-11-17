@@ -144,34 +144,34 @@ For gender swap results, see the [gender swap AI examples on PictCraft](https://
 | Category | Prompts |
 |---|---|
 | [Age and gender](prompts/image-to-image/age-gender.md) | 30 |
-| [Change the Background](prompts/image-to-image/background.md) | 30 |
+| [Change the background](prompts/image-to-image/background.md) | 30 |
 | [Combine several images](prompts/image-to-image/combine-images.md) | 30 |
 | [Figurines, toys and stickers](prompts/image-to-image/figurine-toy-sticker.md) | 30 |
-| [Hair, Makeup and Look](prompts/image-to-image/hair-makeup.md) | 30 |
-| [Headshots and Portraits](prompts/image-to-image/headshot-portrait.md) | 30 |
-| [Interior Design and Real Estate](prompts/image-to-image/interior-real-estate.md) | 30 |
+| [Hair, makeup and look](prompts/image-to-image/hair-makeup.md) | 30 |
+| [Headshots and portraits](prompts/image-to-image/headshot-portrait.md) | 30 |
+| [Interior design and real estate](prompts/image-to-image/interior-real-estate.md) | 30 |
 | [Change lighting, weather and season](prompts/image-to-image/light-weather-season.md) | 30 |
-| [Outfit Swap and Virtual Try-On](prompts/image-to-image/outfit-try-on.md) | 30 |
+| [Outfit swap and virtual try-on](prompts/image-to-image/outfit-try-on.md) | 30 |
 | [Pets](prompts/image-to-image/pets.md) | 30 |
-| [Product Photos](prompts/image-to-image/product-photo.md) | 30 |
+| [Product photos](prompts/image-to-image/product-photo.md) | 30 |
 | [Remove, add and expand](prompts/image-to-image/remove-add-expand.md) | 30 |
-| [Restore and Colorize Old Photos](prompts/image-to-image/restore-colorize.md) | 30 |
+| [Restore and colorize old photos](prompts/image-to-image/restore-colorize.md) | 30 |
 | [Sketch to render](prompts/image-to-image/sketch-to-render.md) | 30 |
 | [Social media trends](prompts/image-to-image/social-trends.md) | 30 |
-| [Style Transfer](prompts/image-to-image/style-transfer.md) | 30 |
+| [Style transfer](prompts/image-to-image/style-transfer.md) | 30 |
 
 **Text-to-image** (240)
 
 | Category | Prompts |
 |---|---|
-| [Architecture and Interiors](prompts/text-to-image/architecture-interiors.md) | 30 |
-| [Food and Drink](prompts/text-to-image/food-drink.md) | 30 |
-| [Illustration and Character Design](prompts/text-to-image/illustration-characters.md) | 30 |
-| [Infographics and Diagrams](prompts/text-to-image/infographics-diagrams.md) | 30 |
-| [Logos and Icons](prompts/text-to-image/logos-icons.md) | 30 |
-| [Portraits and People](prompts/text-to-image/portraits-people.md) | 30 |
-| [Posters and Typography](prompts/text-to-image/posters-typography.md) | 30 |
-| [Product Shots and Ads](prompts/text-to-image/product-ads.md) | 30 |
+| [Architecture and interiors](prompts/text-to-image/architecture-interiors.md) | 30 |
+| [Food and drink](prompts/text-to-image/food-drink.md) | 30 |
+| [Illustration and character design](prompts/text-to-image/illustration-characters.md) | 30 |
+| [Infographics and diagrams](prompts/text-to-image/infographics-diagrams.md) | 30 |
+| [Logos and icons](prompts/text-to-image/logos-icons.md) | 30 |
+| [Portraits and people](prompts/text-to-image/portraits-people.md) | 30 |
+| [Posters and typography](prompts/text-to-image/posters-typography.md) | 30 |
+| [Product shots and ads](prompts/text-to-image/product-ads.md) | 30 |
 <!-- CATEGORIES:END -->
 
 ## How to write an image-to-image prompt

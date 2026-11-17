@@ -1,4 +1,4 @@
-# Interior Design and Real Estate
+# Interior design and real estate
 
 Prompts for staging empty rooms, trying new styles, fixing listing photos and rendering floor plans, while the walls, windows and layout stay true to the real space.
 

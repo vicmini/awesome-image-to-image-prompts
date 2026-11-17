@@ -1,4 +1,4 @@
-# Restore and Colorize Old Photos
+# Restore and colorize old photos
 
 Prompts for repairing scratched, faded, torn or blurry photos and adding natural color to black and white pictures, while keeping every face true to the original.
 

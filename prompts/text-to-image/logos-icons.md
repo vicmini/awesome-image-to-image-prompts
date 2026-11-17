@@ -1,4 +1,4 @@
-# Logos and Icons
+# Logos and icons
 
 Prompts for logos, app icons, emblems and badges. All names are invented; replace them with your own and keep the text short so it renders cleanly.
 

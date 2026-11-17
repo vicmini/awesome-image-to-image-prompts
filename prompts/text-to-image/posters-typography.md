@@ -1,4 +1,4 @@
-# Posters and Typography
+# Posters and typography
 
 Prompts for posters, flyers, covers and signs where the words in the image matter. Each one quotes the exact text to render, so the model knows what to spell.
 

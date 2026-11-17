@@ -1,4 +1,4 @@
-# Illustration and Character Design
+# Illustration and character design
 
 Prompts for illustrations, character sheets and storybook scenes in many hand-made and digital styles. All characters are original.
 

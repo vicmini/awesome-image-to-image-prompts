@@ -1,4 +1,4 @@
-# Product Shots and Ads
+# Product shots and ads
 
 Prompts for studio product photos and simple ad visuals. Every product here is invented and unbranded, so you can swap in your own item description.
 

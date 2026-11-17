@@ -1,4 +1,4 @@
-# Food and Drink
+# Food and drink
 
 Prompts for food and drink photography: plated dishes, home cooking, street food and drinks. Say the angle, the surface and where the light comes from.
 

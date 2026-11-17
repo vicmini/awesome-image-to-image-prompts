@@ -1,4 +1,4 @@
-# Outfit Swap and Virtual Try-On
+# Outfit swap and virtual try-on
 
 Prompts for changing what someone is wearing, or dressing a person in a garment from a second photo, with the fit, fabric and light kept believable.
 
