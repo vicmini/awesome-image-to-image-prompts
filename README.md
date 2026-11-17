@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<!-- TOTAL -->720<!-- /TOTAL --> copy-ready **image to image AI prompts** and text-to-image prompts, organized by task: restore an old photo, change the background, swap an outfit, make a headshot, stage a room, shoot a product, swap gender, turn a photo into a figurine. Every prompt is plain English and works with instruction-based image editors such as GPT Image, Nano Banana, Seedream and FLUX Kontext.
+A collection of <!-- TOTAL -->720<!-- /TOTAL --> copy-ready **image to image AI prompts** and text-to-image prompts, organized by task: restore an old photo, change the background, swap an outfit, make a headshot, stage a room, shoot a product, swap gender, turn a photo into a figurine. Every prompt is plain English and works with instruction-based image editors such as GPT Image, Nano Banana, Seedream and FLUX Kontext.
 
 All prompts are in plain files you can clone, search and reuse: one Markdown file per category, plus `prompts.json` and `prompts.csv` with everything in one place.
 
