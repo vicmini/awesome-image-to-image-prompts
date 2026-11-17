@@ -1,8 +1,19 @@
 # Awesome Image-to-Image Prompts
 
-[![Sponsored by PictCraft, an image to image AI editor](assets/banner.jpg)](https://pictcraft.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts)
+[![Image to Image AI - PictCraft](assets/banner.jpg)](https://pictcraft.com/)
 
-<p align="center"><b>Sponsored by <a href="https://pictcraft.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts">PictCraft</a></b>: upload a photo, paste a prompt, get the edit.</p>
+<table>
+  <tr>
+    <td width="110" align="center">
+      <a href="https://pictcraft.com/"><img src="assets/pictcraft-logo.png" alt="Image to Image AI" width="80"></a>
+    </td>
+    <td>
+      <b>Sponsored by <a href="https://pictcraft.com/">Image to Image AI</a></b><br>
+      Upload a photo, paste any prompt from this list and get the edit. GPT Image, Nano Banana, Seedream and more in one place, free to try after sign-up.<br>
+      <b><a href="https://pictcraft.com/">Try Image to Image AI &rarr;</a></b>
+    </td>
+  </tr>
+</table>
 
 <!-- TOTAL -->720<!-- /TOTAL --> copy-ready **image to image AI prompts** and text-to-image prompts, organized by task: restore an old photo, change the background, swap an outfit, make a headshot, stage a room, shoot a product, swap gender, turn a photo into a figurine. Every prompt is plain English and works with instruction-based image editors such as GPT Image, Nano Banana, Seedream and FLUX Kontext.
 
@@ -44,7 +55,7 @@ restore = [p for p in prompts if p["category"] == "restore-colorize"]
 print(restore[0]["prompt"])
 ```
 
-Or skip setup: paste any prompt into [PictCraft's image to image AI editor](https://pictcraft.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts), upload your photo and run it.
+Or skip setup: paste any prompt into [Image to Image AI](https://pictcraft.com/), upload your photo and run it.
 
 ## See the results
 
@@ -134,7 +145,7 @@ Turn this sketch into a studio product photo: matte black with brushed metal hin
 
 More: [prompts/image-to-image/sketch-to-render.md](prompts/image-to-image/sketch-to-render.md)
 
-For gender swap results, see the [gender swap AI examples on PictCraft](https://pictcraft.com/gender-swap?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts). For text inside images, see the [Seedream 5.5 examples](https://pictcraft.com/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts).
+For gender swap results, see the [gender swap AI examples on PictCraft](https://pictcraft.com/gender-swap). For text inside images, see the [Seedream 5.5 examples](https://pictcraft.com/seedream-5-5).
 
 ## All categories
 
@@ -210,13 +221,24 @@ These ideas went viral elsewhere. The prompts in this repo are rewritten; follow
 | Character stickers | A person or pet as a sticker set | [@op7418](https://x.com/op7418/status/1960385812132192509) |
 | Instant photo | Edits framed as an instant-camera print | [@cheese_ai07](https://x.com/cheese_ai07/status/1994662338608161086) |
 | Hug my younger self | You and your childhood photo together | [Free Press Journal coverage](https://www.freepressjournal.in/lifestyle/how-to-create-hug-my-younger-self-ai-generated-image-know-prompts) |
-| Gender swap | "What would I look like as a man / woman" | [PictCraft gender swap examples](https://pictcraft.com/gender-swap?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts) |
+| Gender swap | "What would I look like as a man / woman" | [PictCraft gender swap examples](https://pictcraft.com/gender-swap) |
 
 ## Sponsor
 
-<a href="https://pictcraft.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts"><img src="assets/pictcraft-logo.png" alt="PictCraft" height="40"></a>
+<table>
+  <tr>
+    <td width="110" align="center">
+      <a href="https://pictcraft.com/"><img src="assets/pictcraft-logo.png" alt="Image to Image AI" width="80"></a>
+    </td>
+    <td>
+      <b>Sponsored by <a href="https://pictcraft.com/">Image to Image AI</a></b><br>
+      Upload a photo, paste any prompt from this list and get the edit. GPT Image, Nano Banana, Seedream and more in one place, free to try after sign-up.<br>
+      <b><a href="https://pictcraft.com/">Try Image to Image AI &rarr;</a></b>
+    </td>
+  </tr>
+</table>
 
-This collection is sponsored by **[PictCraft](https://pictcraft.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-to-image-prompts)**, an image to image AI editor. Upload a photo, describe the change in one sentence, and pick a model. The example images in this repo were made with it.
+This collection is sponsored by [Image to Image AI](https://pictcraft.com/) (PictCraft). The example images in this repo were made with it.
 
 ## Contributing
 
