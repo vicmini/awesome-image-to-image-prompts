@@ -840,6 +840,426 @@
     "prompt": "Replace the background with a flat, evenly lit green screen color, leaving clean edges around the hair and shoulders. Keep the person, their lighting and their clothes exactly as they are."
   },
   {
+    "id": "image-to-image/christmas-holiday/1",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 1,
+    "title": "Cozy living room by the tree",
+    "tags": [
+      "christmas photo",
+      "living room",
+      "tree"
+    ],
+    "prompt": "Put the people in this photo in a cozy living room on Christmas Eve: a tall decorated tree with warm white lights behind them, a lit fireplace on the left and wrapped presents on the floor. Warm lamp light on their faces. Keep every face, expression and pose exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/2",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 2,
+    "title": "Matching family pajamas",
+    "tags": [
+      "christmas pajamas",
+      "family",
+      "matching"
+    ],
+    "prompt": "Dress everyone in this family photo in matching red and white plaid Christmas pajamas, sitting together on a sofa in front of a decorated tree. Keep every person's face, hair, age and pose exactly as they are."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/3",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 3,
+    "title": "Snowy street at night",
+    "tags": [
+      "snow",
+      "night",
+      "city"
+    ],
+    "prompt": "Place this person on a snowy small-town main street at night, with string lights over the road, glowing shop windows and soft snow falling. Add a wool coat and scarf over their clothes. Match the warm light from the windows on their face. Keep the face unchanged."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/4",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 4,
+    "title": "Holding a mug by the window",
+    "tags": [
+      "hot cocoa",
+      "window",
+      "cozy"
+    ],
+    "prompt": "Show this person in a chunky knit sweater holding a mug of hot cocoa with marshmallows, standing by a frosted window with snow outside and a Christmas tree reflected in the glass. Soft window light from the left. Keep the face and hair exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/5",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 5,
+    "title": "Christmas morning unwrapping",
+    "tags": [
+      "christmas morning",
+      "presents",
+      "candid"
+    ],
+    "prompt": "Turn this photo into a candid Christmas morning shot: the people sitting on the floor by the tree, mid-laugh, opening presents with torn wrapping paper around them, early morning light from a window. Keep every face recognizable and the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/6",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 6,
+    "title": "Photo with Santa at the mall",
+    "tags": [
+      "santa photo",
+      "mall",
+      "classic"
+    ],
+    "prompt": "Make this a classic mall photo with Santa: the person from my photo sitting next to a jolly Santa in a red velvet chair, a fake snow village and a big tree behind them, bright even studio light. Keep my face and clothes exactly as they are."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/7",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 7,
+    "title": "Pet in a Santa hat",
+    "tags": [
+      "pet",
+      "dog",
+      "santa hat"
+    ],
+    "prompt": "Put a small red Santa hat on the dog in this photo and place it on a plaid blanket under a lit Christmas tree with presents around it. Keep the dog's face, fur color and markings exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/8",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 8,
+    "title": "Couple at an ice rink",
+    "tags": [
+      "couple",
+      "ice skating",
+      "winter"
+    ],
+    "prompt": "Place this couple at an outdoor ice rink in the evening, holding hands on skates, with a giant Christmas tree and string lights behind them and their breath visible in the cold air. Add winter coats, hats and gloves. Keep both faces the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/9",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 9,
+    "title": "Baking Christmas cookies",
+    "tags": [
+      "baking",
+      "cookies",
+      "kitchen"
+    ],
+    "prompt": "Show the people in this photo baking Christmas cookies in a warm kitchen: flour on the counter, gingerbread men on a tray, a little flour on one cheek, garlands over the window. Keep every face and expression exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/10",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 10,
+    "title": "Vintage 1960s Christmas snapshot",
+    "tags": [
+      "vintage",
+      "1960s",
+      "retro"
+    ],
+    "prompt": "Turn this photo into a 1960s Christmas snapshot: a tinsel tree with big colored bulbs, a wood-paneled room, faded warm color and a square print with rounded corners. Dress the people in period clothes. Keep their faces exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/11",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 11,
+    "title": "Ugly Christmas sweater try-on",
+    "tags": [
+      "ugly christmas sweater",
+      "try-on",
+      "funny"
+    ],
+    "prompt": "Change this person's top to a loud ugly Christmas sweater: knitted red and green stripes, a reindeer with a pom-pom nose, snowflakes and little sewn-on bells. Make the knit texture real, with soft wool fuzz. Keep the face, pose and background unchanged."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/12",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 12,
+    "title": "Ugly sweater with my pet on it",
+    "tags": [
+      "ugly christmas sweater",
+      "pet",
+      "custom"
+    ],
+    "prompt": "Put this person in an ugly Christmas sweater with the dog from the second image knitted into the front as a pixel-style pattern, surrounded by candy canes and snowflakes. Keep the person's face unchanged and the dog's colors recognizable in the knit."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/13",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 13,
+    "title": "Family in matching ugly sweaters",
+    "tags": [
+      "ugly christmas sweater",
+      "family",
+      "matching"
+    ],
+    "prompt": "Dress everyone in this family photo in matching ugly Christmas sweaters, each a different color but the same pattern of gingerbread men and Christmas trees. They stand in front of a fireplace. Keep every face, height and pose exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/14",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 14,
+    "title": "Office ugly sweater party",
+    "tags": [
+      "ugly christmas sweater",
+      "office party",
+      "group"
+    ],
+    "prompt": "Turn this group photo into an office ugly sweater party: everyone in a different over-the-top Christmas sweater, paper snowflakes on the windows, a punch bowl on a desk, a little camera flash. Keep every face the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/15",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 15,
+    "title": "Light-up sweater at night",
+    "tags": [
+      "ugly christmas sweater",
+      "lights",
+      "night"
+    ],
+    "prompt": "Change this person's top to a Christmas sweater with real tiny LED lights sewn into a tree shape on the front, glowing in a dark room, the lights casting colored dots on their chin. Keep the face and hair unchanged."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/16",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 16,
+    "title": "Christmas card with a gold border",
+    "tags": [
+      "christmas card",
+      "border",
+      "classic"
+    ],
+    "prompt": "Make this family photo into a Christmas card: the photo stays a real photo in the middle, framed by a thin gold border with holly in the corners, and \"Merry Christmas\" written above it in elegant red script on a cream background. Keep every face exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/17",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 17,
+    "title": "Modern minimalist holiday card",
+    "tags": [
+      "christmas card",
+      "minimalist",
+      "modern"
+    ],
+    "prompt": "Turn this photo into a modern holiday card: the photo in the top two thirds, a white band below with \"Happy Holidays from the Millers\" in clean black sans-serif type and a small green tree icon. Keep the photo itself unchanged."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/18",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 18,
+    "title": "Watercolor Christmas card",
+    "tags": [
+      "christmas card",
+      "watercolor",
+      "painted"
+    ],
+    "prompt": "Make a Christmas card from this photo with a hand-painted watercolor border of pine branches, red berries and snowflakes, and \"Season's Greetings\" in loose brush lettering at the bottom. Keep the photo in the middle as a real photo with every face the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/19",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 19,
+    "title": "Photo card with three pictures",
+    "tags": [
+      "christmas card",
+      "collage",
+      "family"
+    ],
+    "prompt": "Make a holiday photo card with the three images I uploaded: one large photo on the left and two smaller ones stacked on the right, a deep green background with snowflakes, and \"Merry & Bright 2026\" in gold lettering. Keep every face in every photo the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/20",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 20,
+    "title": "Funny pet Christmas card",
+    "tags": [
+      "christmas card",
+      "pet",
+      "funny"
+    ],
+    "prompt": "Turn this photo of my cat into a funny Christmas card: the cat in a tiny elf hat, looking unimpressed, with \"Meowy Christmas\" in bold red letters above and a candy-cane stripe border. Keep the cat's face and fur exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/21",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 21,
+    "title": "Christmas card with a snow globe",
+    "tags": [
+      "christmas card",
+      "snow globe",
+      "family"
+    ],
+    "prompt": "Place the people from this photo inside a glass snow globe on a wooden table, with snow swirling around them and a tiny tree beside them. Add \"Merry Christmas\" engraved on the base. Keep their faces recognizable and the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/22",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 22,
+    "title": "New Year's Eve party",
+    "tags": [
+      "new year",
+      "party",
+      "confetti"
+    ],
+    "prompt": "Turn this photo into a New Year's Eve party shot: the people holding glasses of sparkling wine, gold confetti in the air, a \"2027\" balloon sign behind them and warm party lights. Keep every face and expression the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/23",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 23,
+    "title": "Hanukkah candle lighting",
+    "tags": [
+      "hanukkah",
+      "menorah",
+      "family"
+    ],
+    "prompt": "Show the family in this photo lighting a menorah on a windowsill on the eighth night of Hanukkah, with the candles glowing on their faces and a blue and silver table setting behind them. Keep every face exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/24",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 24,
+    "title": "Cabin in the mountains",
+    "tags": [
+      "cabin",
+      "mountains",
+      "winter"
+    ],
+    "prompt": "Place this person on the porch of a log cabin in snowy mountains at dusk, wrapped in a plaid blanket, with warm light coming from the windows behind them and pine trees covered in snow. Keep the face unchanged."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/25",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 25,
+    "title": "Kids writing letters to Santa",
+    "tags": [
+      "kids",
+      "letter to santa",
+      "cozy"
+    ],
+    "prompt": "Show the children in this photo at a kitchen table writing letters to Santa with crayons, a plate of cookies and a glass of milk beside them, fairy lights over the window. Keep every child's face and age exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/26",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 26,
+    "title": "Christmas market in Europe",
+    "tags": [
+      "christmas market",
+      "europe",
+      "travel"
+    ],
+    "prompt": "Put this person at a European Christmas market at night, holding a cup of mulled wine, with wooden stalls, string lights and a cathedral in the background. Add a warm coat and beanie. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/27",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 27,
+    "title": "Elf on the job",
+    "tags": [
+      "elf",
+      "costume",
+      "funny"
+    ],
+    "prompt": "Dress this person as one of Santa's elves in a green and red costume with pointy shoes and a striped hat, wrapping presents in a busy toy workshop. Keep the face, hair and expression unchanged."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/28",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 28,
+    "title": "Sledding in fresh snow",
+    "tags": [
+      "sledding",
+      "snow",
+      "action"
+    ],
+    "prompt": "Put the people in this photo on a wooden sled flying down a snowy hill, snow spraying up, cheeks red from the cold, winter jackets and hats on. Keep every face recognizable and the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/29",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 29,
+    "title": "Christmas tree farm",
+    "tags": [
+      "tree farm",
+      "family",
+      "outdoors"
+    ],
+    "prompt": "Place this family at a Christmas tree farm on a cold, clear morning, the dad carrying a freshly cut tree over his shoulder, rows of pine trees and a red pickup behind them. Keep every face and age exactly the same."
+  },
+  {
+    "id": "image-to-image/christmas-holiday/30",
+    "type": "image-to-image",
+    "category": "christmas-holiday",
+    "category_title": "Christmas and holiday photos",
+    "number": 30,
+    "title": "Christmas portrait in a painted style",
+    "tags": [
+      "christmas portrait",
+      "oil painting",
+      "family"
+    ],
+    "prompt": "Turn this family photo into a classic oil painting Christmas portrait: rich deep colors, a dark green background, a decorated tree on the side and soft light from the left, like a portrait hanging over a fireplace. Keep every face recognizable."
+  },
+  {
     "id": "image-to-image/combine-images/1",
     "type": "image-to-image",
     "category": "combine-images",
@@ -1678,6 +2098,426 @@
       "app"
     ],
     "prompt": "Turn this hamster into a glossy 3D app-style icon on a rounded square tile, with soft shading and a pastel gradient background. Keep its colors and the white patch on its chest."
+  },
+  {
+    "id": "image-to-image/game-looks/1",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 1,
+    "title": "Open-world game loading-screen art",
+    "tags": [
+      "gta 6 filter",
+      "loading screen",
+      "illustration"
+    ],
+    "prompt": "Redraw this photo as open-world crime game loading-screen art: bold flat colors, crisp black outlines, painted shading, a hot Florida sunset with palm trees behind the person and a sports car. Keep the face recognizable and the pose the same."
+  },
+  {
+    "id": "image-to-image/game-looks/2",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 2,
+    "title": "Neon beach city poster",
+    "tags": [
+      "gta 6 filter",
+      "neon",
+      "beach"
+    ],
+    "prompt": "Turn this photo into a neon-lit beach city game poster: pink and teal sky, palm trees, art deco hotels and a speedboat on the water, drawn in a bold comic illustration style with heavy outlines. Keep the person's face and outfit recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/3",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 3,
+    "title": "Getaway drive",
+    "tags": [
+      "gta 6 filter",
+      "car",
+      "action"
+    ],
+    "prompt": "Put this person behind the wheel of a convertible speeding down a highway at golden hour, sunglasses on, police lights far behind, drawn as video game cover art with bold outlines and saturated colors. Keep the face recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/4",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 4,
+    "title": "Wanted poster with stars",
+    "tags": [
+      "wanted",
+      "stars",
+      "game ui"
+    ],
+    "prompt": "Turn this photo into an in-game wanted screen: the person's face in a mugshot frame, five stars above, a city map in the corner and a bold \"WANTED\" banner, in a clean game UI style. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/game-looks/5",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 5,
+    "title": "Phone screen in a game",
+    "tags": [
+      "game phone",
+      "ui",
+      "selfie"
+    ],
+    "prompt": "Show this selfie on the screen of an in-game smartphone held in a gloved hand, with a social feed interface, likes and comments, and a blurry sunny city behind it, rendered like a modern open-world game. Keep the face in the selfie the same."
+  },
+  {
+    "id": "image-to-image/game-looks/6",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 6,
+    "title": "16-bit pixel art sprite",
+    "tags": [
+      "pixel art",
+      "16-bit",
+      "retro"
+    ],
+    "prompt": "Turn this person into a 16-bit pixel art character standing in a side-scrolling game level with grass, coins and clouds, limited color palette and crisp pixels. Keep the hair color, outfit colors and glasses recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/7",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 7,
+    "title": "Character select screen",
+    "tags": [
+      "character select",
+      "fighting game",
+      "ui"
+    ],
+    "prompt": "Make this person a fighter on a character select screen: full-body pose on the right, a big name banner, stat bars for power, speed and defense, and three other fighters greyed out on the left. Keep the face and outfit recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/8",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 8,
+    "title": "Fantasy RPG hero portrait",
+    "tags": [
+      "rpg",
+      "fantasy",
+      "portrait"
+    ],
+    "prompt": "Redraw this person as a fantasy RPG hero portrait: leather armor with a fur collar, a sword on the back, a misty forest behind, painted in a detailed concept art style with rim light. Keep the face recognizable and the expression the same."
+  },
+  {
+    "id": "image-to-image/game-looks/9",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 9,
+    "title": "Cozy farming game",
+    "tags": [
+      "cozy game",
+      "farming",
+      "cute"
+    ],
+    "prompt": "Turn this photo into a cozy farming game scene: the person as a cute chibi character watering crops outside a little wooden farmhouse, soft pastel colors and round shapes. Keep the hair color and outfit colors recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/10",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 10,
+    "title": "Low-poly early 3D game",
+    "tags": [
+      "low poly",
+      "ps1",
+      "retro 3d"
+    ],
+    "prompt": "Rebuild this person as a low-poly character from a late 1990s 3D game: blocky shapes, blurry low-res textures, a foggy background and a slight wobble to the edges. Keep the hair, clothing colors and overall look recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/11",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 11,
+    "title": "Blocky voxel world",
+    "tags": [
+      "voxel",
+      "blocks",
+      "sandbox"
+    ],
+    "prompt": "Turn this person and their dog into blocky voxel characters standing in a sandbox world of cube trees, grass blocks and a small block house. Keep the hair color, outfit colors and the dog's coat colors recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/12",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 12,
+    "title": "Racing game finish line",
+    "tags": [
+      "racing game",
+      "car",
+      "hud"
+    ],
+    "prompt": "Put this person celebrating next to their car at a racing game finish line, with a checkered flag, confetti and a HUD showing \"1st\" and the lap time, rendered like a modern racing game. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/game-looks/13",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 13,
+    "title": "Sports game cover star",
+    "tags": [
+      "sports game",
+      "cover",
+      "football"
+    ],
+    "prompt": "Make this person the cover athlete of a football video game: jersey with the number 10, mid-celebration, stadium lights and crowd behind, bold title area at the top. Keep the face and body shape recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/14",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 14,
+    "title": "Arcade cabinet art",
+    "tags": [
+      "arcade",
+      "80s",
+      "cabinet"
+    ],
+    "prompt": "Turn this photo into 1980s arcade cabinet side art: airbrushed chrome, a laser grid floor, a neon sunset and the person in a heroic pose, with a bold retro game title above. Keep the face recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/15",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 15,
+    "title": "Post-apocalyptic survivor",
+    "tags": [
+      "survival game",
+      "post apocalyptic",
+      "cinematic"
+    ],
+    "prompt": "Show this person as a survivor in a post-apocalyptic game: worn jacket, backpack, overgrown city ruins behind, dusty light through broken buildings, rendered like a cinematic game cutscene. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/game-looks/16",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 16,
+    "title": "Cel-shaded adventure game",
+    "tags": [
+      "cel shaded",
+      "adventure",
+      "anime"
+    ],
+    "prompt": "Redraw this person as a cel-shaded adventure game character exploring a grassy cliff over the sea, bright flat colors, soft outlines and a big sky. Keep the face, hair and outfit recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/17",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 17,
+    "title": "Achievement unlocked",
+    "tags": [
+      "achievement",
+      "game ui",
+      "funny"
+    ],
+    "prompt": "Add an \"Achievement Unlocked\" game notification to the top of this photo of me finishing a marathon, with a trophy icon and the text \"Ran 26.2 miles without stopping\", in a clean console UI style. Keep the photo itself unchanged."
+  },
+  {
+    "id": "image-to-image/game-looks/18",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 18,
+    "title": "Mini map and HUD overlay",
+    "tags": [
+      "hud",
+      "game ui",
+      "overlay"
+    ],
+    "prompt": "Turn this street photo into a third-person game frame: add a mini map in the bottom left, a health bar, a money counter and a mission objective in the top right, and give the colors a game render look. Keep the person and the street layout the same."
+  },
+  {
+    "id": "image-to-image/game-looks/19",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 19,
+    "title": "Stealth mission briefing",
+    "tags": [
+      "spy game",
+      "briefing",
+      "ui"
+    ],
+    "prompt": "Make this photo a stealth game mission briefing screen: the person's photo in a dossier frame, a target name in caps, a satellite map, and green monospace mission text. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/game-looks/20",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 20,
+    "title": "Handheld console screenshot",
+    "tags": [
+      "handheld",
+      "retro",
+      "8-bit"
+    ],
+    "prompt": "Show this photo as a screenshot on an old green-tinted handheld game console screen, four shades of green, chunky pixels, with the console's buttons visible around the screen. Keep the person's pose and outline recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/21",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 21,
+    "title": "Boss battle",
+    "tags": [
+      "boss fight",
+      "action",
+      "hud"
+    ],
+    "prompt": "Put my cat in a video game boss battle: the cat as a giant boss towering over a tiny knight, a boss health bar at the top with the cat's name, dramatic red light and sparks. Keep the cat's face and fur colors the same."
+  },
+  {
+    "id": "image-to-image/game-looks/22",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 22,
+    "title": "Life simulation build mode",
+    "tags": [
+      "life sim",
+      "house",
+      "plumbob"
+    ],
+    "prompt": "Turn this photo into a life simulation game scene: the person as a slightly stylized 3D character in a living room seen from above at an angle, with a green diamond floating over their head and a needs panel in the corner. Keep the face and outfit recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/23",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 23,
+    "title": "Platformer level with my kid",
+    "tags": [
+      "platformer",
+      "kids",
+      "colorful"
+    ],
+    "prompt": "Turn the child in this photo into the hero of a colorful 3D platformer, jumping between floating islands collecting stars, bright sky and cartoon shapes. Keep the child's face, hair and outfit colors recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/24",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 24,
+    "title": "Cyberpunk city at night",
+    "tags": [
+      "cyberpunk",
+      "neon",
+      "night"
+    ],
+    "prompt": "Place this person in a rainy cyberpunk game city at night: holographic signs, neon reflections on wet streets, a long coat with glowing trim, rendered like a high-end game screenshot. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/game-looks/25",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 25,
+    "title": "Visual novel scene",
+    "tags": [
+      "visual novel",
+      "anime",
+      "dialogue"
+    ],
+    "prompt": "Turn this photo into a visual novel scene: the person drawn as an anime character in the middle of a school hallway, a dialogue box at the bottom with their name and a line of text, soft pastel colors. Keep the hair and outfit recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/26",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 26,
+    "title": "Retro game box art",
+    "tags": [
+      "box art",
+      "90s",
+      "cover"
+    ],
+    "prompt": "Make this photo into 1990s game box art: a painted heroic illustration of the person, a dramatic sky, a bold chrome title and a console logo strip on the side, on a slightly worn cardboard box. Keep the face recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/27",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 27,
+    "title": "Trading card from a game",
+    "tags": [
+      "trading card",
+      "stats",
+      "collectible"
+    ],
+    "prompt": "Turn this person into a collectible game trading card: their portrait in the art window, a name bar, an element icon, two attack moves with damage numbers and a holographic shine. Keep the face exactly the same."
+  },
+  {
+    "id": "image-to-image/game-looks/28",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 28,
+    "title": "Photo mode with a filter",
+    "tags": [
+      "photo mode",
+      "cinematic",
+      "filter"
+    ],
+    "prompt": "Make this photo look like a shot from an open-world game's photo mode: slightly stylized skin and textures, cinematic depth of field, strong orange and teal grading and a soft vignette. Keep the person's face and pose the same."
+  },
+  {
+    "id": "image-to-image/game-looks/29",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 29,
+    "title": "Squad lineup",
+    "tags": [
+      "squad",
+      "group",
+      "cover art"
+    ],
+    "prompt": "Turn this group photo into a game cover lineup: the friends standing in a row in a heroic low-angle shot, each with gear, a sunset city skyline behind and a bold title bar at the top. Keep every face recognizable."
+  },
+  {
+    "id": "image-to-image/game-looks/30",
+    "type": "image-to-image",
+    "category": "game-looks",
+    "category_title": "Video game looks",
+    "number": 30,
+    "title": "Game over screen",
+    "tags": [
+      "game over",
+      "funny",
+      "retro"
+    ],
+    "prompt": "Add a retro \"GAME OVER\" screen to this photo of me asleep on the sofa: big pixel letters in the middle, \"Continue? 9\" countdown below and a dark overlay on the photo. Keep the photo underneath unchanged."
   },
   {
     "id": "image-to-image/hair-makeup/1",

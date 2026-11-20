@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-A collection of <!-- TOTAL -->720<!-- /TOTAL --> copy-ready **image to image AI prompts** and text-to-image prompts, organized by task: restore an old photo, change the background, swap an outfit, make a headshot, stage a room, shoot a product, swap gender, turn a photo into a figurine. Every prompt is plain English and works with instruction-based image editors such as GPT Image, Nano Banana, Seedream and FLUX Kontext.
+A collection of <!-- TOTAL -->780<!-- /TOTAL --> copy-ready **image to image AI prompts** and text-to-image prompts, organized by task: restore an old photo, change the background, swap an outfit, make a headshot, stage a room, shoot a product, swap gender, turn a photo into a figurine, make a Christmas card or turn a selfie into game art. Every prompt is plain English and works with instruction-based image editors such as GPT Image, Nano Banana, Seedream 5.5, Kling Image and FLUX Kontext.
 
 All prompts are in plain files you can clone, search and reuse: one Markdown file per category, plus `prompts.json` and `prompts.csv` with everything in one place.
 
@@ -26,6 +26,7 @@ All prompts are in plain files you can clone, search and reuse: one Markdown fil
 - [All categories](#all-categories)
 - [How to write an image-to-image prompt](#how-to-write-an-image-to-image-prompt)
 - [Trends and where they started](#trends-and-where-they-started)
+- [Changelog](#changelog)
 - [Sponsor](#sponsor)
 - [Contributing](#contributing)
 - [License](#license)
@@ -150,14 +151,16 @@ For gender swap results, see the [gender swap AI examples on PictCraft](https://
 ## All categories
 
 <!-- CATEGORIES:START -->
-**Image-to-image** (480)
+**Image-to-image** (540)
 
 | Category | Prompts |
 |---|---|
 | [Age and gender](prompts/image-to-image/age-gender.md) | 30 |
 | [Change the background](prompts/image-to-image/background.md) | 30 |
+| [Christmas and holiday photos](prompts/image-to-image/christmas-holiday.md) | 30 |
 | [Combine several images](prompts/image-to-image/combine-images.md) | 30 |
 | [Figurines, toys and stickers](prompts/image-to-image/figurine-toy-sticker.md) | 30 |
+| [Video game looks](prompts/image-to-image/game-looks.md) | 30 |
 | [Hair, makeup and look](prompts/image-to-image/hair-makeup.md) | 30 |
 | [Headshots and portraits](prompts/image-to-image/headshot-portrait.md) | 30 |
 | [Interior design and real estate](prompts/image-to-image/interior-real-estate.md) | 30 |
@@ -222,6 +225,16 @@ These ideas went viral elsewhere. The prompts in this repo are rewritten; follow
 | Instant photo | Edits framed as an instant-camera print | [@cheese_ai07](https://x.com/cheese_ai07/status/1994662338608161086) |
 | Hug my younger self | You and your childhood photo together | [Free Press Journal coverage](https://www.freepressjournal.in/lifestyle/how-to-create-hug-my-younger-self-ai-generated-image-know-prompts) |
 | Gender swap | "What would I look like as a man / woman" | [PictCraft gender swap examples](https://pictcraft.com/gender-swap) |
+| GTA 6 filter | A selfie redrawn as open-world game loading-screen art | [GTA 6 filter examples](https://pictcraft.com/gta-6-filter) |
+| Ugly Christmas sweater | Yourself, your family or your pet in a loud holiday knit | [Ugly Christmas sweater generator](https://pictcraft.com/ugly-christmas-sweater-generator) |
+| AI Christmas card | A family photo turned into a printable holiday card | [AI Christmas card generator](https://pictcraft.com/ai-christmas-card-generator) |
+
+## Changelog
+
+The full history is in [CHANGELOG.md](CHANGELOG.md).
+
+- **2026-11-20**: added [Christmas and holiday photos](prompts/image-to-image/christmas-holiday.md) (Christmas photos, ugly sweaters, holiday cards) and [Video game looks](prompts/image-to-image/game-looks.md) (GTA 6 filter style, pixel art, character select screens); three new trends.
+- **2026-11-17**: first release, 720 prompts in 24 categories.
 
 ## Sponsor
 
